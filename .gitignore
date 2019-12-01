@@ -104,6 +104,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+pgbackup-env/
 env/
 venv/
 ENV/
